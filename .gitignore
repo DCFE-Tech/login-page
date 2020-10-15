@@ -19,3 +19,7 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+
+# vue d file
+*/shims-tsx.d.ts
+*/shims-vue.d.ts
